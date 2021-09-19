@@ -1,0 +1,1 @@
+A React app which performs the function of calling an API to fetch some users data and displays them in a box (whose display is set as flex), the data of the users is displayed in cards inside the flexbox.
